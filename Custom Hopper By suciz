@@ -1,0 +1,4 @@
+repeat task.wait() until game:IsLoaded()
+wait(5)
+game.Players.LocalPlayer:Kick("Byfron: exploits detected! Ban duration: -1")
+end
